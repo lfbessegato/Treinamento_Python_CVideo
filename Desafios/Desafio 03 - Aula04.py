@@ -1,0 +1,7 @@
+print('====== DESAFIO 03 ======')
+num01 = input ('Primeiro Número = ')
+num02 = input ('Segundo Número = ')
+print('A Soma é: ', int(num01) + int (num02))
+print('A Soma é: ', str(num01) + str(num02))
+s = int(num01)+int(num02)
+print('A soma entre {} e {} vale {}'.format(num01, num02, s))

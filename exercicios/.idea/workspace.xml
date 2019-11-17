@@ -91,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex114">
+  <component name="RunManager" selected="Python.sistema">
     <configuration name="ex041" type="PythonConfigurationType" factoryName="Python">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex115" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex110" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex110/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/ex115.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex111" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex111/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/sistema.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,18 +243,18 @@
       <item itemvalue="Python.ex041" />
       <item itemvalue="Python.ex089" />
       <item itemvalue="Python.ex113" />
-      <item itemvalue="Python.teste (3)" />
-      <item itemvalue="Python.teste (4)" />
       <item itemvalue="Python.teste (5)" />
       <item itemvalue="Python.ex114" />
+      <item itemvalue="Python.ex115" />
+      <item itemvalue="Python.sistema" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sistema" />
+        <item itemvalue="Python.ex115" />
         <item itemvalue="Python.ex114" />
         <item itemvalue="Python.ex113" />
         <item itemvalue="Python.teste (5)" />
-        <item itemvalue="Python.teste (4)" />
-        <item itemvalue="Python.teste (3)" />
       </list>
     </recent_temporary>
   </component>
